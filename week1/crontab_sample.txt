@@ -1,0 +1,2 @@
+ */1 * * * * touch /home/fywest/helloFile_$(date +\%Y\%m\%d\%H\%M\%S).txt > /dev/null 2>&1 
+
