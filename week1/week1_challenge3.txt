@@ -1,0 +1,1 @@
+* 3 * * *  sudo tar -g backupinfo -cvzf ~/backup/$(date +\%Y-\%m-\%d-\%H-\%M-\%S).tar.gz  /var/log/ 2>>error.log
