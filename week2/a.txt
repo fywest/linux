@@ -1,0 +1,175 @@
+ 1480  ps
+ 1921  git clone https://github.com/shiyanlou/lou_challenge_ele
+ 2000  ps auxf
+ 2001  ps auxf | grep bash -A 2
+ 2003  histroy | grep 'ps'
+ 2004  histroy | grep '*ps*'
+ 2005  history | grep '*ps*'
+ 2008  history | grep ps
+ 2009  history | grep ps > a.txt
+ 1027  ll
+ 1029  ll
+ 1031  ll
+ 1033  ll
+ 1036  pip install pep8
+ 1040  ll
+ 1047  ll
+ 1049  ll
+ 1050  pep8 challenge3.py 
+ 1052  ll
+ 1054  ll
+ 1057  pip install pycodestyle
+ 1063  ll
+ 1065  ll
+ 1067  ll
+ 1070  ll
+ 1074  mongoimport --db shiyanlou --collection contests --file contests.json --jsonArray
+ 1082  ll
+ 1094  ll
+ 1096  ll
+ 1099  ll
+ 1101  ll
+ 1130  ll
+ 1131  ll | grep "*.sh"
+ 1132  ll | grep ".sh"
+ 1137  ll
+ 1140  ll
+ 1144  ll
+ 1146  ll
+ 1150  ll
+ 1152  ll
+ 1155  ll
+ 1157  ll
+ 1170  ll
+ 1172  ll
+ 1174  ll
+ 1178  ll
+ 1181  ll
+ 1182  pip install -r requirement.txt 
+ 1191  ll
+ 1196  ll
+ 1198  ll
+ 1202  ll
+ 1204  ll
+ 1207  ll
+ 1213  ll
+ 1236  ll
+ 1238  ll
+ 1253  ll
+ 1262  ll
+ 1265  ll .lesshst 
+ 1267  ll .lesshst 
+ 1269  ll .lesshst 
+ 1271  ll .lesshst 
+ 1275  ll .lesshst 
+ 1278  ll .lesshst 
+ 1280  ll
+ 1281  ll core 
+ 1283  ll core 
+ 1286  ll core 
+ 1289  ll
+ 1296  ll
+ 1298  ll
+ 1303  ll
+ 1305  ll
+ 1322  ll
+ 1326  git pull
+ 1340  git pull
+ 1349  ll
+ 1350  vim challenge3_2.py
+ 1357  pypython3 challenge3_2.py 
+ 1358  python3 challenge3_2.py 
+ 1360  ll
+ 1376  pip install openpyxl
+ 1378  ll
+ 1380  ll
+ 1382  ll
+ 1384  ll
+ 1392  ll
+ 1398  vim challenge3_2.py 
+ 1402  ll
+ 1404  ll
+ 1405  python3 challenge3_2.py 
+ 1407  python3 challenge3_2.py 
+ 1412  git commit -m "update challenge3_2.py and functional is ok"
+ 1419  ll
+ 1428  ll
+ 1438  ll
+ 1463  ll
+ 1469  ll
+ 1475  ll
+ 1477  ll
+ 1497  ll
+ 1512  ll
+ 1514  ll
+ 1520  ll
+ 1554  ll
+ 1571  ll
+ 1573  ll
+ 1584  ll
+ 1586  ll
+ 1623  ll
+ 1625  ll
+ 1640  ll
+ 1642  ll
+ 1674  ll
+ 1682  ll
+ 1694  ll
+ 1699  ll
+ 1701  ll
+ 1712  ll
+ 1714  ll
+ 1717  ll
+ 1735  sudo apt install curl
+ 1748  ll
+ 1754  ll
+ 1770  ll
+ 1779  ll
+ 1786  ll
+ 1790  ll
+ 1792  ll
+ 1796  ll
+ 1798  ll
+ 1800  ll
+ 1802  ll
+ 1805  ll
+ 1811  ll
+ 1813  ll
+ 1815  ll
+ 1818  ll
+ 1834  ll
+ 1837  ll
+ 1839  ll
+ 1844  ll
+ 1856  ll
+ 1862  ll
+ 1868  ll
+ 1894  ll
+ 1896  ll
+ 1898  ll
+ 1915  ll
+ 1918  ll
+ 1921  git clone https://github.com/shiyanlou/lou_challenge_ele
+ 1922  ll
+ 1923  cd lou_challenge_ele/
+ 1924  ll
+ 1928  ll
+ 1932  ll
+ 1934  ll
+ 1953  ll
+ 1954  cd lou_challenge_ele/
+ 1955  ll
+ 1963  ll
+ 1964  cd lou_challenge_ele/
+ 1965  ll
+ 1980  ll
+ 1982  ll
+ 1988  ll
+ 1989  pip install requests
+ 1991  pip install requests
+ 1995  ll
+ 1996  cd lou_challenge_ele/
+ 1997  ll
+ 2007  history | grep ll
+ 2010  ll
+ 2012  history | grep ll >> a.txt
