@@ -1,0 +1,118 @@
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: active (running) since Mon 2019-04-15 23:39:12 EEST; 6s ago
+  Process: 3953 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 3944 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 3955 (mysqld)
+    Tasks: 27 (limit: 4915)
+   CGroup: /system.slice/mysql.service
+           └─3955 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: active (running) since Mon 2019-04-15 23:39:12 EEST; 1min 0s ago
+  Process: 3953 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 3944 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 3955 (mysqld)
+    Tasks: 27 (limit: 4915)
+   CGroup: /system.slice/mysql.service
+           └─3955 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+<----------------mysql---------------->
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: active (running) since Mon 2019-04-15 23:39:12 EEST; 2min 16s ago
+  Process: 3953 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 3944 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 3955 (mysqld)
+    Tasks: 27 (limit: 4915)
+   CGroup: /system.slice/mysql.service
+           └─3955 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+<----------------mysql---------------->
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: inactive (dead) since Mon 2019-04-15 23:42:15 EEST; 4s ago
+  Process: 3953 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 3944 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 3955 (code=exited, status=0/SUCCESS)
+
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+huhti 15 23:42:13 fywest-ThinkPad-W540 systemd[1]: Stopping MySQL Community Server...
+huhti 15 23:42:15 fywest-ThinkPad-W540 systemd[1]: Stopped MySQL Community Server.
+<----------------mysql---------------->
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: inactive (dead) since Mon 2019-04-15 23:42:15 EEST; 3min 37s ago
+  Process: 3953 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 3944 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 3955 (code=exited, status=0/SUCCESS)
+
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:39:12 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+huhti 15 23:42:13 fywest-ThinkPad-W540 systemd[1]: Stopping MySQL Community Server...
+huhti 15 23:42:15 fywest-ThinkPad-W540 systemd[1]: Stopped MySQL Community Server.
+<----------------mysql---------------->
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: active (running) since Mon 2019-04-15 23:45:53 EEST; 6s ago
+  Process: 4126 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 4117 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 4128 (mysqld)
+    Tasks: 27 (limit: 4915)
+   CGroup: /system.slice/mysql.service
+           └─4128 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+
+huhti 15 23:45:53 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:45:53 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+<----------------mysq---------------->
+<----------------mysq---------------->
+Unit mysq.service could not be found.
+Failed to start mysq.service: Unit mysq.service not found.
+<----------------mysq---------------->
+<----------------mysql---------------->
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: active (running) since Mon 2019-04-15 23:45:53 EEST; 7min ago
+  Process: 4126 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 4117 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 4128 (mysqld)
+    Tasks: 27 (limit: 4915)
+   CGroup: /system.slice/mysql.service
+           └─4128 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+
+huhti 15 23:45:53 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:45:53 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+<----------------mysql---------------->
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: inactive (dead) since Mon 2019-04-15 23:53:17 EEST; 5s ago
+  Process: 4126 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 4117 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 4128 (code=exited, status=0/SUCCESS)
+
+huhti 15 23:45:53 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:45:53 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+huhti 15 23:53:15 fywest-ThinkPad-W540 systemd[1]: Stopping MySQL Community Server...
+huhti 15 23:53:17 fywest-ThinkPad-W540 systemd[1]: Stopped MySQL Community Server.
+<----------------mysql---------------->
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+   Active: active (running) since Mon 2019-04-15 23:53:24 EEST; 3s ago
+  Process: 4289 ExecStart=/usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid (code=exited, status=0/SUCCESS)
+  Process: 4280 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+ Main PID: 4291 (mysqld)
+    Tasks: 27 (limit: 4915)
+   CGroup: /system.slice/mysql.service
+           └─4291 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid
+
+huhti 15 23:53:23 fywest-ThinkPad-W540 systemd[1]: Starting MySQL Community Server...
+huhti 15 23:53:24 fywest-ThinkPad-W540 systemd[1]: Started MySQL Community Server.
+<----------------mysqlfjdal---------------->
