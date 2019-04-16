@@ -1,7 +1,7 @@
 #!/bin/bash
 
 service_name=$1
-echo "<----------------$service_name---------------->" >> status.txt
+echo "<----------------$service_name---------------->" #>> status.txt
 
 if [ ! -f "/etc/init.d/$service_name" ]; then
     echo "Error:Service Not Found"

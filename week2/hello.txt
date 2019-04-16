@@ -1,1 +1,37 @@
+hello1
+hello1
 hello
+hello
+hello
+hello
+hello
+bash: check_service.sh: No such file or directory
+bash: check_service.sh: No such file or directory
+bash: check_service.sh: No such file or directory
+bash: check_service.sh: No such file or directory
+bash: check_service.sh: No such file or directory
+Restarting
+Restarting
+Restarting
+Restarting
+Restarting
+Restarting
+Restarting
+Restarting
+Restarting
+Restarting
+Restarting
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
+Restarting
+Restarting
+Error:Service Not Found
+Error:Service Not Found
+Error:Service Not Found
