@@ -1,0 +1,15 @@
+hello this is louplus
+welcome to shiyanlou
+this's a test file
+would you like something to drink coffee,tea,or coco-cola
+
+
+
+
+awk 'BEGIN{printf "%4s %4s %4s %4s %4s %4s %4s %4s %4s\n","FILENAME","ARGC","FNR","FS","NF","NR","OFS","ORS","RS";printf "---------------------------------------------\n"} {printf "%4s %4s %4s %4s %4s %4s %4s %4s %4s\n",FILENAME,ARGC,FNR,FS,NF,NR,OFS,ORS,RS}'  test.txt
+
+awk -F\' 'BEGIN{printf "%4s %4s %4s %4s %4s %4s %4s %4s %4s\n","FILENAME","ARGC","FNR","FS","NF","NR","OFS","ORS","RS";printf "---------------------------------------------\n"} {printf "%4s %4s %4s %4s %4s %4s %4s %4s %4s\n",FILENAME,ARGC,FNR,FS,NF,NR,OFS,ORS,RS}'  test.txt
+
+awk '{print NR,FNR,$1,$2,$3}' test.txt
+
+awk '{print $1,$2,$5}' OFS=" $ "  test.txt

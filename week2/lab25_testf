@@ -1,0 +1,2 @@
+BEGIN{print "hello shiyanlou"}
+#-F: {print $1} /etc/passwd
