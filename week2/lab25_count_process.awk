@@ -1,3 +1,4 @@
+ps -ef $*|awk '
 BEGIN{
 #print "BYTES","\t","FILE"
     printf("%5s\t%-20s\n","COUNT","USER")
@@ -29,4 +30,4 @@ END {
 #printf("%5d\t%-20s\n",users[var],var)
     for(var in users)
     {printf("%5d\t%-20s\n",users[var],var) |"sort -r -n -k1";}
-}
+}'
